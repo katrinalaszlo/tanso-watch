@@ -32,7 +32,7 @@
   "author": "Tanso <hello@tanso.dev>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tansodev/tanso-watch"
+    "url": "https://github.com/katrinalaszlo/tanso-watch"
   },
   "engines": {
     "bun": ">=1.0"
