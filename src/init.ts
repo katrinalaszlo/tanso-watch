@@ -39,7 +39,7 @@ Anthropic: Generate an admin API key (sk-ant-admin-...) at console.anthropic.com
 This is read-only access. The tool runs locally on my machine via cron
 and never sends cost data to any external service.
 
-More info: https://github.com/tansodev/tanso-watch`;
+More info: https://github.com/katrinalaszlo/tanso-watch`;
 
 export async function runInit(): Promise<void> {
   const rl = createInterface({ input: process.stdin, output: process.stdout });

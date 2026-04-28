@@ -8,7 +8,7 @@ Shows spend across AWS, GCP, Azure, OpenAI, and Anthropic. Escalating Slack aler
 
 No signup. No dashboard. Just a CLI that runs via cron.
 
-**Honest about latency:** Cloud billing data arrives 8-24 hours late. tanso-watch catches drift (spend creeping up over days/weeks), not real-time spikes. For real-time cost blocking, see [Tanso Platform](https://tanso.dev).
+**Honest about latency:** Cloud billing data arrives 8-24 hours late. tanso-watch catches drift (spend creeping up over days/weeks), not real-time spikes.
 
 ## Requirements
 
@@ -129,8 +129,8 @@ Cost data is stored locally in `~/.tanso/data.db` (SQLite). Nothing is sent anyw
 
 ## Want more?
 
-- [Observe](https://observe.tanso.dev) — open source dashboard for per-customer cost visibility (self-host)
-- [Tanso Platform](https://tanso.dev) — managed platform with real-time cost blocking, team dashboards, and revenue aggregation
+- [Observe](https://observe.tansohq.com) — open source dashboard for per-customer cost visibility (self-host)
+- [Tanso Platform](https://dashboard.tansohq.com) — managed platform with real-time cost blocking, team dashboards, and revenue aggregation
 
 ## License
 

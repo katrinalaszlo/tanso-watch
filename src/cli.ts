@@ -258,10 +258,10 @@ program
       ),
     );
     console.log(
-      `  Observe:        ${chalk.cyan("https://observe.tanso.dev")} ${chalk.dim("(open source, self-host)")}`,
+      `  Observe:        ${chalk.cyan("https://observe.tansohq.com")} ${chalk.dim("(open source, self-host)")}`,
     );
     console.log(
-      `  Tanso Platform: ${chalk.cyan("https://tanso.dev")} ${chalk.dim("(managed, enterprise)")}`,
+      `  Tanso Platform: ${chalk.cyan("https://dashboard.tansohq.com")} ${chalk.dim("(managed, enterprise)")}`,
     );
     console.log();
   });
